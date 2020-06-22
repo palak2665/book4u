@@ -1,0 +1,171 @@
+body {
+    font-family:sans-serif;
+}
+#title {
+    background-color:#e5cfe5;
+    padding:3% 7% 2% 7%;
+    
+    
+}
+.continer-fluid {
+    padding-left: 2% 5%;
+    
+}
+.bookshelf {
+    width: 90%;
+    height: 90%;
+    padding:5% 0 0 5%;
+    margin-bottom:0 ;
+    margin-left: 5%;
+}
+
+
+h1 {
+    font-family: 'Ubuntu', sans-serif;
+    color: black;
+    font-weight: bold;
+    line-height: 1.5;
+}
+/*navigation bar*/
+.navbar {
+    padding:0 0 4.5rem;
+    
+}
+.navbar-brand{
+    font-family:"ubuntu" ;
+    font-weight: bold;
+    font-size: 2rem;
+}
+.nav-item {
+    padding: 0 8% 0;
+}
+.nav-link {
+    font-size:1.2rem;
+    font-family: "montserrat-light";
+
+}
+.download-button {
+    margin: 7% 3% 7% 0;
+}
+.btn {
+    margin: 5% 3% 5% 0;
+} 
+
+/* genre section*/
+.images {
+    width: 10rem;
+    height: 13rem;
+    margin: 10%;
+}
+.one {
+    font-family: "ubuntu";
+    font-size: 1.5rem;
+    margin:7%;
+       
+}
+.two {
+    text-decoration: none;
+    color: black;
+    margin: 5%;
+    line-height: 1.5rem;
+ }
+ .two:hover {
+    color:darkgreen;
+ 
+ }
+ .genre {
+     font-family: "ubuntu-dark";
+     margin:5% 0 2% 8%;
+     
+ }
+/*features*/
+.features {
+    padding: 5% 10%;
+}
+.feature {
+    text-align: center;
+    padding: 5%;
+}
+h3 {
+    font-family: 'Ubuntu-Bold', sans-serif;
+    font-weight: bold;
+}
+.p1 {
+    color: #8f8f8f;
+}
+.icon {
+    color:#e495e4;
+    
+}
+.icon:hover {
+    color:#e5bce5;
+}
+/*testimonial section*/
+#testimonials {
+    
+    text-align: center;
+    background-color:#e5bce5 ;
+    font-family: "ubuntu";
+}
+h5 {
+    padding: 4%;
+}
+h2 {
+    font-size: 3rem;
+   
+}
+#press {
+    background-color:#e5bce5 ;
+    text-align: center;
+    padding-bottom: 5%;
+}
+.press-logo {
+    width: 12%;
+    margin: 2rem 2rem 5rem;
+}
+.carousel-item {
+    padding: 7% 13%;
+}
+
+td {
+    padding-left: 7%;
+    padding-right: 4%;
+}
+
+/*pricing section*/
+#pricing {
+    padding: 10%;
+    text-align: center;
+}
+.pricings {
+    text-align: center;
+    margin-bottom: 2%;
+}
+.pricingss {
+    text-align: center;
+    margin-bottom: 7%;
+    color: #8a8383;
+}
+.price-column {
+   padding: 0 2% 3% 2%;
+}
+@media (max-width:1028px) {
+    #title {
+        text-align: center;
+    }
+}
+/*cta*/
+#cta {
+    background-color:#e5bce5 ;
+    padding: 7% 15%;
+    text-align: center;
+
+}
+/*footer*/
+#footer {
+    padding: 7% 15%;
+    text-align: center;
+}
+.social {
+    margin: 1%;
+}
